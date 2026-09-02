@@ -1,0 +1,33 @@
+# Temporary files
+tempCodeRunnerFile.py
+
+# Elcomsoft third-party software
+Elcomsoft/
+Elcomsoft Password Recovery/
+efdd_setup_en.msi
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Forensic evidence / sensitive key material
+*.dd
+*.dmp
+*.raw
+*.mem
+*.evk
+*.bek
+
+# Generated output
+output/
+outputs/
+results/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
